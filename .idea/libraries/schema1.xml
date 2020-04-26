@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="schema1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProgettoISPW2018WebApp/.idea/dataSources/9f74ce7a-5af0-493a-bd79-745836f22360/storage_v2/_src_/database/progettoISPW.dQBL_w/schema/information_schema.FNRwLQ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/ProgettoISPW2018WebApp/.idea/dataSources/9f74ce7a-5af0-493a-bd79-745836f22360/storage_v2/_src_/database/progettoISPW.dQBL_w/schema/pg_catalog.0S1ZNQ.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
